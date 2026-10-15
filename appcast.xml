@@ -3,6 +3,14 @@
     <channel>
         <title>Object Modeler</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Thu, 15 Oct 2026 21:18:45 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jralden/objectmodeler-releases/releases/download/v0.2.3/ObjectModeler-0.2.3.zip" length="2456490" type="application/octet-stream" sparkle:edSignature="DAeIH36IaCTRjOoR7QhBcmSQ0JpWwANAxZgzivhAIlVp4UJy2fwDec58/GrOFdYQzzp3Apj9HDMszqqYUKs1Ag=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Sun, 11 Oct 2026 12:33:04 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/jralden/objectmodeler-releases/releases/download/v0.2.1/ObjectModeler-0.2.1.zip" length="2381248" type="application/octet-stream" sparkle:edSignature="oL1gNwzNZGWBBg9mEOyg4WJDiUyM3zKOteueEheHU6ZGRHBAfu6Q47aa49o85hqP4bc01OljR7mSvOr7aQOJAw=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sun, 11 Oct 2026 11:35:08 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/objectmodeler-releases/releases/download/v0.2.0/ObjectModeler-0.2.0.zip" length="2378862" type="application/octet-stream" sparkle:edSignature="5/X2UR64WJ26yzxUbLnSEA5/RO7rU4Uy3zZLPz+BAMzHKgRF8ymAspLht1hHxHv1C/fOjWXZOZoiZE+DlMZnDw=="/>
         </item>
     </channel>
 </rss>
